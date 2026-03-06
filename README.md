@@ -29,7 +29,7 @@ Android Image Caching Manager is a lightweight library that downloads images fro
 # **Preview**
 ---
 <p align="center">
-  <img src="https://github.com/S13reya/Android_AppVersionChecker/blob/stages/app/src/main/assets/demovideo.gif" height="320"/>
+  <img src="https://github.com/S13reya/Android_ImageCachingManager/blob/stages/app/src/main/assets/demovideo.png" height="320"/>
 
 
 
